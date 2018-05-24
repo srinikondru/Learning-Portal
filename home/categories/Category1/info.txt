@@ -1,0 +1,1 @@
+Each category will in-turn have topics. (Eg: AngularJS is a topic under web-development category.)

@@ -1,0 +1,1 @@
+Each topic will further have several courses, from which student can select the ones needed.
