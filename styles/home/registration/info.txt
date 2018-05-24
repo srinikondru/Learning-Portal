@@ -1,1 +1,0 @@
-Registration page should ask for full name, email and password.

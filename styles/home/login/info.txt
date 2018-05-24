@@ -1,3 +1,0 @@
-Login page should ask for email address and password.
-
-teach.html page (which is displayed when you click "Teach" button on user homepage) is to register yourself as instructor.
